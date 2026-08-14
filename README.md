@@ -4,7 +4,11 @@
 
 ### 💻 Full Stack Developer | BCA Student | Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+❤️;Java+%7C+Python+%7C+React;Building+Real+World+Projects+🔥" alt="Typing SVG" />
+<h3>
+  💻 Full Stack Developer &nbsp; • &nbsp;
+  ⚛️ MERN Stack Developer &nbsp; • &nbsp;
+  🚀 Web Developer
+</h3>
 
 <br>
 
