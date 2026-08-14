@@ -1,137 +1,46 @@
- <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    MANSI MAURYA - GITHUB                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# 👋 Hi, I'm Mansi Maurya
+# 👋 Hey, I'm Mansi Maurya
 
-### 💻 Full Stack Developer | BCA Student | Tech Enthusiast
+### 💻 Full Stack Developer | BCA Student | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+JavaScript+%7C+Python;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Ideas+into+Web+Applications+🚀;MERN+Stack+Developer+💻;Learning+Something+New+Every+Day+📚;Code+%7C+Build+%7C+Learn+%7C+Repeat+🔥" />
 
 <br>
 
 <a href="https://github.com/mansimaurya721-ux">
-  <img src="https://img.shields.io/github/followers/mansimaurya721-ux?label=Followers&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/mansimaurya721-ux?label=Followers&style=flat-square&logo=github">
 </a>
 
-<a href="https://github.com/mansimaurya721-ux">
-  <img src="https://img.shields.io/github/stars/mansimaurya721-ux?label=Stars&style=for-the-badge&logo=github" />
+<a href="https://github.com/mansimaurya721-ux?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=flat-square&logo=github">
+</a>
+
+<a href="https://mansimaurya.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat-square&logo=google-chrome">
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-🎓 I'm a **BCA student** passionate about software development and modern web technologies.
-
-💻 I enjoy building **full-stack web applications**, interactive websites, and practical software projects.
-
-🌱 Currently learning and improving my skills in **MERN Stack, React, Node.js, and backend development**.
-
-🧠 I believe in learning by building real-world projects.
-
-🎯 My goal is to become a strong **Full Stack Developer** and build useful, scalable applications.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,render" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🤖 **AI Journal System** | A web application for creating and managing AI-powered journal entries. | MERN |
-| 💬 **Social Media Platform** | A social platform with authentication, posts, comments, likes and follows. | MERN |
-| 🛒 **E-Commerce Store** | Online shopping application with products, cart and checkout functionality. | HTML • CSS • JS • Node |
-| 📦 **Stock Management System** | Desktop application for managing products and stock records. | Java • MySQL |
-| 🌦️ **Weather App** | Weather application displaying real-time weather information. | HTML • CSS • JavaScript |
-| 🎮 **Car Racing Game** | Interactive browser-based racing game with keyboard controls. | HTML • CSS • JavaScript |
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mansimaurya721-ux&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaurya721-ux&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mansimaurya721-ux&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansimaurya721-ux&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-```text
-React.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-REST APIs
-   ↓
-Full Stack Development
+```javascript
+const mansi = {
+    role: "Full Stack Developer",
+    education: "BCA",
+    interests: [
+        "Web Development",
+        "Full Stack Development",
+        "Problem Solving",
+        "Building Real-World Projects"
+    ],
+    currentFocus: [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+    mindset: "Learn → Build → Improve → Repeat 🚀"
+};
