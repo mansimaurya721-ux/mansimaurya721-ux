@@ -4,20 +4,20 @@
 
 ### 💻 Full Stack Developer | BCA Student | Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+❤️;Java+%7C+Python+%7C+React;Building+Real+World+Projects+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+❤️;Java+%7C+Python+%7C+React;Building+Real+World+Projects+🔥" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/mansimaurya721-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://mansimaurya.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="[www.linkedin.com/in/mansi-maurya1710-](https://www.linkedin.com/in/mansi-maurya1710-/)">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/mansi-maurya1710-/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -44,13 +44,13 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 </p>
 
@@ -62,9 +62,9 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
 </p>
 
@@ -76,9 +76,9 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
 
@@ -90,9 +90,9 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </p>
 
@@ -104,15 +104,15 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 
 </p>
 
@@ -129,11 +129,15 @@
 
 ## 🤖 AI Journal System
 
-An AI-powered journal application for creating and managing personal journal entries.
+AI-powered journal application for creating and managing personal journal entries.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB`
+
+<br>
+
+🔗 **[View Project](YOUR_AI_JOURNAL_REPO_URL)**
 
 </td>
 
@@ -143,9 +147,13 @@ An AI-powered journal application for creating and managing personal journal ent
 
 A mini social media application with authentication, posts, comments, likes and follow functionality.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB`
+
+<br>
+
+🔗 **[View Project](YOUR_SOCIAL_MEDIA_REPO_URL)**
 
 </td>
 
@@ -159,9 +167,13 @@ A mini social media application with authentication, posts, comments, likes and 
 
 Interactive online shopping application with products, product details, cart and checkout functionality.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript` `Node.js`
+
+<br>
+
+🔗 **[View Project](YOUR_ECOMMERCE_REPO_URL)**
 
 </td>
 
@@ -171,9 +183,13 @@ Interactive online shopping application with products, product details, cart and
 
 Desktop CRUD application for managing products and stock records.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `Java` `Swing` `MySQL`
+
+<br>
+
+🔗 **[View Project](YOUR_STOCK_MANAGEMENT_REPO_URL)**
 
 </td>
 
@@ -185,11 +201,15 @@ Desktop CRUD application for managing products and stock records.
 
 ## 🌦️ Weather App
 
-A responsive weather application that displays weather information using an API.
+Responsive weather application displaying weather information using an API.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
+
+<br>
+
+🔗 **[View Project](YOUR_WEATHER_APP_REPO_URL)**
 
 </td>
 
@@ -199,9 +219,13 @@ A responsive weather application that displays weather information using an API.
 
 Interactive browser-based racing game with keyboard controls and game challenges.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
+
+<br>
+
+🔗 **[View Project](YOUR_CAR_RACING_GAME_REPO_URL)**
 
 </td>
 
@@ -282,3 +306,61 @@ Interactive browser-based racing game with keyboard controls and game challenges
  Full Stack Development
           ↓
      🚀 Real World Apps
+```
+
+---
+
+# 🏆 Goals
+
+- 🚀 Build production-ready full-stack applications
+- ⚛️ Master React.js
+- 🟢 Improve Node.js & Express.js
+- 🗄️ Strengthen database knowledge
+- 🧠 Improve DSA and problem-solving skills
+- 🌍 Contribute to Open Source
+- ☁️ Learn cloud and deployment technologies
+- 💼 Become a professional Full Stack Developer
+
+---
+
+# 💡 My Developer Mindset
+
+<div align="center">
+
+### **Learn → Build → Break → Fix → Improve → Repeat 🚀**
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mansimaurya721-ux">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://mansimaurya.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mansi-maurya1710-/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=mansimaurya721-ux&label=Profile%20Views&style=for-the-badge" />
+
+<br><br>
+
+**Code • Build • Learn • Repeat 🚀**
+
+</div>
