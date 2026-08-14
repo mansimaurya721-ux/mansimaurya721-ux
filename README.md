@@ -4,16 +4,20 @@
 
 ### 💻 Full Stack Developer | BCA Student | Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+❤️;Java+%7C+Python+%7C+React;Building+Real+World+Projects+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+❤️;Java+%7C+Python+%7C+React;Building+Real+World+Projects+🔥" />
 
 <br>
 
 <a href="https://github.com/mansimaurya721-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://mansimaurya.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -22,75 +26,97 @@
 
 ## 👩‍💻 About Me
 
-🎓 **BCA Student** passionate about software development and web technologies.
+🎓 I'm a **BCA student** passionate about software development and modern web technologies.
 
-💻 I enjoy creating **responsive websites, web applications and full-stack projects**.
+💻 I enjoy building **responsive websites, interactive web applications and full-stack projects**.
 
-🌱 Currently learning and improving my skills in the **MERN Stack**.
+🌱 Currently focusing on **MERN Stack Development** and improving my backend development skills.
 
-🚀 I love learning new technologies and converting ideas into real-world projects.
+🧠 I believe in **learning by building real-world projects**.
 
-🎯 **Goal:** Become a skilled Full Stack Developer.
+🚀 My goal is to become a skilled **Full Stack Developer** and build useful, scalable applications.
 
 ---
 
-# 🛠️ My Tech Stack
+# 🛠️ Tech Stack
 
-### 🌐 Frontend Development
+## 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
 </p>
 
 **HTML5 • CSS3 • JavaScript • React.js**
 
 ---
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+
 </p>
 
 **Node.js • Express.js • REST APIs**
 
 ---
 
-### 🗄️ Database
+## 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 </p>
 
 **MongoDB • MySQL**
 
 ---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 </p>
 
 **Java • Python**
 
 ---
 
-### 🔧 Tools & Platforms
+## 🔧 Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=netlify" />
-<img src="https://skillicons.dev/icons?i=render" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
+
 </p>
+
+**Git • GitHub • VS Code • Netlify • Render**
 
 ---
 
@@ -101,11 +127,11 @@
 
 <td width="50%">
 
-### 🤖 AI Journal System
+## 🤖 AI Journal System
 
-AI-powered journal application for creating and managing personal journal entries.
+An AI-powered journal application for creating and managing personal journal entries.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -113,11 +139,11 @@ AI-powered journal application for creating and managing personal journal entrie
 
 <td width="50%">
 
-### 💬 Social Media Platform
+## 💬 Social Media Platform
 
-Mini social media application with users, posts, comments, likes and follows.
+A mini social media application with authentication, posts, comments, likes and follow functionality.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -129,11 +155,11 @@ Mini social media application with users, posts, comments, likes and follows.
 
 <td width="50%">
 
-### 🛒 E-Commerce Store
+## 🛒 E-Commerce Store
 
-Interactive online shopping application with products, cart and checkout.
+Interactive online shopping application with products, product details, cart and checkout functionality.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
@@ -141,22 +167,51 @@ Interactive online shopping application with products, cart and checkout.
 
 <td width="50%">
 
-### 📦 Stock Management System
+## 📦 Stock Management System
 
 Desktop CRUD application for managing products and stock records.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `Java` `Swing` `MySQL`
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌦️ Weather App
+
+A responsive weather application that displays weather information using an API.
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+## 🎮 Car Racing Game
+
+Interactive browser-based racing game with keyboard controls and game challenges.
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -190,12 +245,40 @@ Desktop CRUD application for managing products and stock records.
 
 # 🎯 Currently Learning
 
+<div align="center">
+
+| 🚀 Technology | 📚 Focus |
+|:---:|:---|
+| ⚛️ React.js | Frontend Development |
+| 🟢 Node.js | Backend Development |
+| 🚂 Express.js | REST APIs |
+| 🍃 MongoDB | Database |
+| 🔐 Authentication | Secure Applications |
+| 🔗 REST APIs | Backend Integration |
+| 🧩 DSA | Problem Solving |
+| ☁️ Deployment | Hosting & Deployment |
+
+</div>
+
+---
+
+# 🧭 My Developer Journey
+
 ```text
-⚛️ React.js
-🟢 Node.js
-🚂 Express.js
-🍃 MongoDB
-🔐 Authentication
-🔗 REST APIs
-🧩 Data Structures & Algorithms
-☁️ Deployment
+        HTML
+          ↓
+         CSS
+          ↓
+     JavaScript
+          ↓
+       React.js
+          ↓
+ Node.js + Express
+          ↓
+       MongoDB
+          ↓
+      REST APIs
+          ↓
+ Full Stack Development
+          ↓
+     🚀 Real World Apps
