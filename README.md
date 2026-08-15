@@ -4,11 +4,15 @@
 
 ### 💻 Full Stack Developer | BCA Student | Web Developer
 
-<h3>
-  💻 Full Stack Developer &nbsp; • &nbsp;
-  ⚛️ MERN Stack Developer &nbsp; • &nbsp;
-  🚀 Web Developer
-</h3>
+<br>
+
+<p>
+  <strong>🚀 Building Real-World Projects</strong>
+  &nbsp; • &nbsp;
+  <strong>💻 Learning Full Stack Development</strong>
+  &nbsp; • &nbsp;
+  <strong>🌱 Growing Every Day</strong>
+</p>
 
 <br>
 
@@ -131,27 +135,11 @@
 
 <td width="50%">
 
-## 🤖 AI Journal System
-
-AI-powered journal application for creating and managing personal journal entries.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-<br>
-
-🔗 **[View Project](YOUR_AI_JOURNAL_REPO_URL)**
-
-</td>
-
-<td width="50%">
-
 ## 💬 Social Media Platform
 
 A mini social media application with authentication, posts, comments, likes and follow functionality.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -161,17 +149,13 @@ A mini social media application with authentication, posts, comments, likes and 
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ## 🛒 E-Commerce Store
 
 Interactive online shopping application with products, product details, cart and checkout functionality.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
@@ -181,41 +165,9 @@ Interactive online shopping application with products, product details, cart and
 
 </td>
 
-<td width="50%">
-
-## 📦 Stock Management System
-
-Desktop CRUD application for managing products and stock records.
-
-**Tech Stack**
-
-`Java` `Swing` `MySQL`
-
-<br>
-
-🔗 **[View Project](YOUR_STOCK_MANAGEMENT_REPO_URL)**
-
-</td>
-
 </tr>
 
 <tr>
-
-<td width="50%">
-
-## 🌦️ Weather App
-
-Responsive weather application displaying weather information using an API.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-🔗 **[View Project](YOUR_WEATHER_APP_REPO_URL)**
-
-</td>
 
 <td width="50%">
 
@@ -223,13 +175,25 @@ Responsive weather application displaying weather information using an API.
 
 Interactive browser-based racing game with keyboard controls and game challenges.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `HTML` `CSS` `JavaScript`
 
 <br>
 
 🔗 **[View Project](YOUR_CAR_RACING_GAME_REPO_URL)**
+
+</td>
+
+<td width="50%">
+
+## 🚀 More Projects Coming Soon...
+
+I'm continuously building new projects and improving my development skills.
+
+<br>
+
+**Learning • Building • Improving 💻**
 
 </td>
 
@@ -266,6 +230,16 @@ Interactive browser-based racing game with keyboard controls and game challenges
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansimaurya721-ux&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mansimaurya721-ux/mansimaurya721-ux/output/github-contribution-grid-snake-pink.svg" alt="Pink contribution snake" />
 
 </div>
 
@@ -310,61 +284,3 @@ Interactive browser-based racing game with keyboard controls and game challenges
  Full Stack Development
           ↓
      🚀 Real World Apps
-```
-
----
-
-# 🏆 Goals
-
-- 🚀 Build production-ready full-stack applications
-- ⚛️ Master React.js
-- 🟢 Improve Node.js & Express.js
-- 🗄️ Strengthen database knowledge
-- 🧠 Improve DSA and problem-solving skills
-- 🌍 Contribute to Open Source
-- ☁️ Learn cloud and deployment technologies
-- 💼 Become a professional Full Stack Developer
-
----
-
-# 💡 My Developer Mindset
-
-<div align="center">
-
-### **Learn → Build → Break → Fix → Improve → Repeat 🚀**
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/mansimaurya721-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://mansimaurya.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mansi-maurya1710-/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=mansimaurya721-ux&label=Profile%20Views&style=for-the-badge" />
-
-<br><br>
-
-**Code • Build • Learn • Repeat 🚀**
-
-</div>
