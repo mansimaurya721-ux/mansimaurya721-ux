@@ -101,7 +101,7 @@ A mini social media application with user authentication, posts, comments, likes
 
 <br>
 
-🔗 **[View Repository](YOUR_SOCIAL_MEDIA_REPO_URL)**
+🔗 **[View Repository](https://github.com/mansimaurya721-ux/social-media-platform.git)**
 
 </td>
 
@@ -117,7 +117,7 @@ A web-based shopping application with products, product details, shopping cart a
 
 <br>
 
-🔗 **[View Repository](YOUR_ECOMMERCE_REPO_URL)**
+🔗 **[View Repository](https://github.com/mansimaurya721-ux/codealpha-ecommerce.git))**
 
 </td>
 
