@@ -91,6 +91,22 @@
 
 <td width="50%">
 
+### 💼 Personal Portfolio
+
+A responsive developer portfolio showcasing my skills, projects, technologies and web development journey.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+🌐 **[Live Portfolio](https://mansimaurya.netlify.app)**
+
+</td>
+
+<td width="50%">
+
 ### 💬 Social Media Platform
 
 A mini social media application with user authentication, posts, comments, likes and follow functionality.
@@ -101,23 +117,7 @@ A mini social media application with user authentication, posts, comments, likes
 
 <br>
 
-🔗 **[View Repository](https://github.com/mansimaurya721-ux/social-media-platform.git)**
-
-</td>
-
-<td width="50%">
-
-### 🛒 E-Commerce Store
-
-A web-based shopping application with products, product details, shopping cart and checkout functionality.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Node.js`
-
-<br>
-
-🔗 **[View Repository](https://github.com/mansimaurya721-ux/codealpha-ecommerce.git))**
+🔗 **[View Repository](https://github.com/mansimaurya721-ux/social-media-platform)**
 
 </td>
 
@@ -127,9 +127,25 @@ A web-based shopping application with products, product details, shopping cart a
 
 <td width="50%">
 
+### 🛒 E-Commerce Store
+
+A web-based shopping application with product browsing, product details, shopping cart and checkout functionality.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Node.js`
+
+<br>
+
+🔗 **[View Repository](https://github.com/mansimaurya721-ux/codealpha-ecommerce)**
+
+</td>
+
+<td width="50%">
+
 ### 🎮 Car Racing Game
 
-An interactive browser-based racing game with keyboard controls, challenges and responsive gameplay.
+An interactive browser-based racing game featuring keyboard controls, challenges and responsive gameplay.
 
 **Tech Stack**
 
@@ -137,19 +153,7 @@ An interactive browser-based racing game with keyboard controls, challenges and 
 
 <br>
 
-🔗 **[View Repository](https://github.com/mansimaurya721-ux/street-racer-game.git)**
-
-</td>
-
-<td width="50%">
-
-### 🌱 More Projects Coming Soon
-
-Currently learning, experimenting and building new projects.
-
-<br>
-
-`Build` → `Learn` → `Improve`
+🔗 **[View Repository](https://github.com/mansimaurya721-ux/street-racer-game)**
 
 </td>
 
@@ -206,13 +210,13 @@ Full Stack Development
 - 🌍 Explore Open Source
 - 💼 Prepare for a Full Stack Developer career
 
-
+---
 
 # 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mansimaurya721-ux&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mansimaurya721-ux&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -256,6 +260,6 @@ Full Stack Development
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mansimaurya721-ux&label=Profile%20Views&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mansimaurya721-ux&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 
 </div>
