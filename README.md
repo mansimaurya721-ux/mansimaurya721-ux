@@ -137,7 +137,7 @@ An interactive browser-based racing game with keyboard controls, challenges and 
 
 <br>
 
-🔗 **[View Repository](YOUR_CAR_RACING_REPO_URL)**
+🔗 **[View Repository](https://github.com/mansimaurya721-ux/street-racer-game.git)**
 
 </td>
 
