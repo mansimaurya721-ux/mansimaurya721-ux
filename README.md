@@ -2,7 +2,7 @@
 
 # Hey, I'm Mansi 👋
 
-### Full Stack Developer in Progress 🚀
+### 💻 Full Stack Developer in Progress 🚀
 
 **BCA Student • Web Developer • MERN Learner**
 
@@ -26,28 +26,23 @@
 
 ## ✦ About Me
 
-```js
-const mansi = {
-    education: "BCA",
-    role: "Full Stack Developer",
-    stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB"],
-    languages: ["Java", "JavaScript", "Python"],
-    currentlyLearning: ["React", "Node.js", "REST APIs", "DSA"],
-    mindset: "Build. Learn. Improve. 🚀"
-};
-```
+🎓 BCA student passionate about **Full Stack Development** and modern web technologies.
 
-I'm a **BCA student** who enjoys turning ideas into clean, responsive and useful web applications.
+💻 I enjoy creating **responsive websites, interactive applications and real-world projects**.
 
-I like working across both **frontend and backend**, experimenting with new technologies and learning by building real projects.
+🌱 Currently learning and improving my skills in **React, Node.js, Express and MongoDB**.
 
-> **Currently:** Learning → Building → Improving 💻
+🧠 I believe the best way to learn development is to **build, experiment and solve problems**.
+
+🚀 My goal is to grow as a **Full Stack Developer** and build applications that are useful, scalable and impactful.
+
+> **Learning → Building → Improving → Repeating 🔥**
 
 ---
 
 # ⚡ Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -56,28 +51,28 @@ I like working across both **frontend and backend**, experimenting with new tech
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-### Tools
+### 🛠️ Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -89,7 +84,7 @@ I like working across both **frontend and backend**, experimenting with new tech
 
 ---
 
-# 🚀 What I've Built
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -98,9 +93,9 @@ I like working across both **frontend and backend**, experimenting with new tech
 
 ### 💬 Social Media Platform
 
-A full-stack social platform with user authentication, posts, comments, likes and follow functionality.
+A mini social media application with user authentication, posts, comments, likes and follow functionality.
 
-**Stack**
+**Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -114,9 +109,9 @@ A full-stack social platform with user authentication, posts, comments, likes an
 
 ### 🛒 E-Commerce Store
 
-A web-based shopping application with products, product details, cart and checkout functionality.
+A web-based shopping application with products, product details, shopping cart and checkout functionality.
 
-**Stack**
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
@@ -134,9 +129,9 @@ A web-based shopping application with products, product details, cart and checko
 
 ### 🎮 Car Racing Game
 
-An interactive browser game with keyboard controls, challenges and responsive gameplay.
+An interactive browser-based racing game with keyboard controls, challenges and responsive gameplay.
 
-**Stack**
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
@@ -148,13 +143,13 @@ An interactive browser game with keyboard controls, challenges and responsive ga
 
 <td width="50%">
 
-### 🌱 More Projects
+### 🌱 More Projects Coming Soon
 
-Currently learning and building more projects while improving my full-stack development skills.
+Currently learning, experimenting and building new projects.
 
 <br>
 
-`Build → Learn → Repeat`
+`Build` → `Learn` → `Improve`
 
 </td>
 
@@ -165,39 +160,61 @@ Currently learning and building more projects while improving my full-stack deve
 
 # 📚 Currently Learning
 
-```text
-React.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-REST APIs
-   ↓
-MongoDB
-   ↓
-Full Stack Development
-```
-
-Also working on:
-
-- 🧩 Data Structures & Algorithms
-- 🔐 Authentication & Authorization
-- 🔗 REST API development
-- 📱 Responsive UI
-- ☁️ Deployment
+| 🚀 Technology | 🎯 Focus |
+|:---:|:---|
+| ⚛️ React.js | Frontend Development |
+| 🟢 Node.js | Backend Development |
+| 🚂 Express.js | REST APIs |
+| 🍃 MongoDB | Database |
+| 🔐 Authentication | Secure Applications |
+| 🔗 REST APIs | Backend Integration |
+| 🧩 DSA | Problem Solving |
+| ☁️ Deployment | Hosting & Deployment |
 
 ---
 
-# 📊 GitHub
+# 🧭 My Developer Journey
+
+```text
+HTML + CSS
+    ↓
+JavaScript
+    ↓
+React.js
+    ↓
+Node.js + Express
+    ↓
+MongoDB
+    ↓
+REST APIs
+    ↓
+Full Stack Development
+    ↓
+🚀 Real-World Applications
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build more real-world full-stack projects
+- ⚛️ Strengthen React.js skills
+- 🟢 Improve Node.js & Express.js
+- 🧠 Practice DSA and problem solving
+- 🔐 Learn authentication and secure API development
+- ☁️ Improve deployment and hosting skills
+- 🌍 Explore Open Source
+- 💼 Prepare for a Full Stack Developer career
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=mansimaurya721-ux&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mansimaurya721-ux&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaurya721-ux&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaurya721-ux&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -213,30 +230,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaurya7
 
 ---
 
-# 🎯 2026 Goals
-
-```text
-✓ Build real-world projects
-✓ Improve Full Stack skills
-→ Master React & Node.js
-→ Strengthen DSA
-→ Build production-ready applications
-→ Contribute to Open Source
-```
-
----
-
-# 💭 Developer Mindset
+# 💡 Developer Mindset
 
 <div align="center">
 
-### "Don't just learn the technology. Build something with it." 🚀
+### **Learn → Build → Break → Fix → Improve → Repeat 🚀**
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -248,8 +252,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaurya7
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/mansimaurya721-ux">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -258,9 +262,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaurya7
 
 <div align="center">
 
-### Thanks for stopping by! ✨
+### ✨ Thanks for visiting my profile!
 
-**Made with 💻 + ☕ + curiosity**
+**Code • Build • Learn • Repeat 💻**
 
 <br>
 
