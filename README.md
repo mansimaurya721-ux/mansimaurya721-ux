@@ -212,11 +212,14 @@ Full Stack Development
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mansimaurya721-ux&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=mansimaurya721-ux&theme=transparent&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
@@ -260,6 +263,9 @@ Full Stack Development
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mansimaurya721-ux&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+<img
+  src="https://komarev.com/ghpvc/?username=mansimaurya721-ux&label=Profile%20Views&style=flat-square"
+  alt="Profile Views"
+/>
 
 </div>
