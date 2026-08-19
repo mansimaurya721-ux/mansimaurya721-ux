@@ -201,25 +201,36 @@ Full Stack Development
 
 # 🎯 2026 Goals
 
-- 🚀 Build more real-world full-stack projects
-- ⚛️ Strengthen React.js skills
-- 🟢 Improve Node.js & Express.js
-- 🧠 Practice DSA and problem solving
-- 🔐 Learn authentication and secure API development
-- ☁️ Improve deployment and hosting skills
-- 🌍 Explore Open Source
+- 🚀 Build more real-world full-stack applications
+- ⚛️ Strengthen React.js and frontend development
+- 🟢 Improve Node.js, Express.js and backend architecture
+- 🧠 Practice DSA and problem solving consistently
+- 🔐 Learn secure authentication and API development
+- ☁️ Improve deployment and cloud skills
+- 🌍 Make meaningful open-source contributions
 - 💼 Prepare for a Full Stack Developer career
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=mansimaurya721-ux&theme=transparent&hide_border=true"
-  alt="GitHub Contribution Streak"
-/>
+<a href="https://github.com/mansimaurya721-ux">
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/mansimaurya721-ux?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**🟩 Keep coding • Keep contributing • Keep building 🚀**
 
 </div>
 
@@ -263,9 +274,6 @@ Full Stack Development
 
 <br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=mansimaurya721-ux&label=Profile%20Views&style=flat-square"
-  alt="Profile Views"
-/>
+⭐ **Feel free to explore my repositories and projects!**
 
 </div>
